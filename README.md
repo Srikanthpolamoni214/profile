@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning: **TypeScript, GraphQL, and Docker**
 - 💬 Ask me about: **MERN Stack, REST APIs, JWT Auth, Performance Optimization**
 - 👯 I’m open to collaborate on: **Open source MERN stack projects or startups**
-- 📫 How to reach me: **srikanth.polamoni@example.com**
+- 📫 How to reach me: **polamonisrikanth123@gmail.com**
 - ⚡ Fun fact: *I love solving real-world problems with clean and scalable code!*
 
 ---
